@@ -3,11 +3,11 @@
 }
 
 .color-default {
-    color: var(--dune);
+    color: var(--colors-brand-dune);
 }
 
 .color-primary {
-    color: var(--palegreen);
+    color: var(--colors-brand-palegreen);
 }
 
 .size-md {
